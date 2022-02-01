@@ -1785,7 +1785,7 @@ p + section {
 
 - [ ] `transform: translateX(-100px)`
 - [ ] `transform: translateY(-100px)`
-- [ ] `transform: translateY(100px)`
+- [x] `transform: translateY(100px)`
 - [ ] `transform: translateX(100px)`
 
 #### Q121. Which style will horizontally center the inner &lt;div&gt; within the outer &lt;div&gt;?
